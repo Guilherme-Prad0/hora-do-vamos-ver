@@ -10,4 +10,5 @@ public class MilagreApplication {
 		SpringApplication.run(MilagreApplication.class, args);
 	}
 
+
 }
